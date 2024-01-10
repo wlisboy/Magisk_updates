@@ -1,10 +1,10 @@
 Magisk面具合集
 ===
-
+***
 @topjohnwu_Magisk
 ---
 
-> 介绍
+> 介绍：
 > Magisk是一套用于定制Android的开源软件，支持Android 6.0以上的设备。
 >
 > >一些突出的特点：
@@ -17,7 +17,7 @@ Magisk面具合集
 
 @雪珊 南宫_Magisk alpha
 ---
->介绍
+>介绍：
 Magisk是一套用于定制Android的开源软件，支持Android 5.0以上的设备。
 
 >>一些突出的特点：
@@ -40,10 +40,10 @@ MagiskBoot：最完整的 Android 启动映像解包和重新打包工具
 @tiann_KSU
 ---
 
->介绍
+>介绍：
 一个 Android 上基于内核的 root 方案。
 
->>特性
+>>特性：
 基于内核的 su 和权限管理。
 基于 OverlayFS 的模块系统。
 App Profile: 把 Root 权限关进笼子里.
@@ -53,10 +53,10 @@ App Profile: 把 Root 权限关进笼子里.
 @bmax121_APatch
 ---
 
->介绍
+>介绍：
 Android内核和Android系统的补丁。
 
->>根
+>>特性：
 APM：类似 Magisk 模块的支持
 KPM：内核补丁模块支持。（允许您将任何代码注入内核，内核函数inline-hook和syscall-table-hook可用）
 APatch依赖于KernelPatch
